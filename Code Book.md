@@ -10,8 +10,7 @@ activity: activity name
 
 type: Test data or Train data
 
-The following variables are numerical of testing results and their range is between -1 and -1;
-the varible definition in 'second_tidy_dataset.txt' are the average of the following variables
+# The varible definition in 'second_tidy_dataset.txt' are the average of the following variables across each subject and each activity
 
 tBodyAcc_mean_X: time domain, mean of body acceleration on X axis;
 

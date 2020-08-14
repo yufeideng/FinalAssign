@@ -74,7 +74,7 @@ test_train_select <- test_train[,varnam]
 
 setwd(odir)
 
-write.table(test_train_select, "./FinalAssign/first_tidy_dataset.txt", row.names = FALSE)
+# write.table(test_train_select, "./FinalAssign/first_tidy_dataset.txt", row.names = FALSE)
 
 # Step 3: Avg of  variable for each activity and each subject -------------
         

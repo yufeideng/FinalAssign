@@ -36,7 +36,7 @@ load and combine 'X_train.txt', 'y_train.txt', and 'subject_train.txt'; merge th
 merge test data and train data. 
 
 # Step 2: 
-select out mean and standard deviation measure, make a subject from the merged data from Step 1.4, write the first tidy dataset
+select out mean and standard deviation measure;
 
 # Step 3: 
 Create the average of selected measures across the group of each subject and each activity
@@ -45,5 +45,5 @@ Create the average of selected measures across the group of each subject and eac
 Rename the varibles from Step 3, and write the second tidy dataset. 
 
 # Code Book: the definition of the variables
-# first_tidy_dataset.txt: dataset from Step 2
+
 # second_tidy_dataset.txt: dataset from Step 4
